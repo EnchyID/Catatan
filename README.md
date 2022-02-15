@@ -1,2 +1,2 @@
 # Catatan Releases
-• [Catatan v5.1](https://github.com/FrogasQ/Catatan/releases/tag/5.1) | [Changelogs]()
+• [Catatan v5.1](https://github.com/FrogasQ/Catatan/releases/tag/5.1) | [Changelogs](https://github.com/FrogasQ/Catatan/blob/main/changelogs-1.5.md)
