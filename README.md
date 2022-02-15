@@ -2,4 +2,4 @@
 
 [![images](images/Button_1.png)](https://github.com/FrogasQ/Catatan/tree/main/changelogs) [![images](images/button_2.png)](https://github.com/FrogasQ/Catatan/issues)
 
-[![images](images/button_7.png)](https://github.com/FrogasQ) [![images](images/button_4.png)](https://www.instagram.com/mmadeza_) [![images](images/button_6.png)](https://mobile.twitter.com/mmadeza_)
+[![images](images/button_7.png)](https://github.com/FrogasQ) [![images](images/button_4.png)](https://www.instagram.com/mmadeza_) [![images](images/button_6.png)](https://mobile.twitter.com/mmadeza_) [![images](images/button_5.png)](https://t.me/RezaByID)
