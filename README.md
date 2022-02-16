@@ -4,7 +4,7 @@
 
 # Releases List
 
-Catatan v5.3 Catatan v5.2 Catatan v5.1
+Catatan v5.3   Catatan v5.2   Catatan v5.1
 
 [![images](https://raw.githubusercontent.com/FrogasQ/Catatan/main/images/button_10.png)](https://github.com/FrogasQ/Catatan/releases/download/5.3/Catatan_v5.3.apk) [![images](https://raw.githubusercontent.com/FrogasQ/Catatan/main/images/button_10.png)](https://github.com/FrogasQ/Catatan/releases/download/5.2/Catatan_v5.2.apk) [![images](https://raw.githubusercontent.com/FrogasQ/Catatan/main/images/button_10.png)](https://github.com/FrogasQ/Catatan/releases/download/5.1/Catatan_v5.1.apk)
 
