@@ -4,7 +4,8 @@
 
 # Releases List
 
-| Catatan v5.7 |
+| Catatan 
+v5.7 |
 | :----------: |
 | [![images](https://raw.githubusercontent.com/FrogasQ/Catatan/main/images/button_10.png)](https://github.com/FrogasQ/Catatan/releases/download/5.7/Catatan_v5.7.apk)
 
